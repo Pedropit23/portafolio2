@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Datos de estudiante</title>
+</head>
+<body> 
+<style>
+body{background-color:#99CAFF;}
+h1 {color:blue;}
+</style>
+<img src="itszn.png"alt="100"wide="100"height="100">
+ 
+<div style="background-color:white;">
+<br><br>
+<table style= width:100
+<tr>
+	<th style="width:20%"></th>
+	<th>
+		<img src="imagenes/Picture1.jpg" alt="foto" width="300" title="Pedro Peña E">
+	</th>
+	<th style="width:30%">
+		<h2>Alumno:pedro peña enriquez</h2>
+        <h2>Carrera: Ingenieria en Tecnologias de la Información y Comunicación</h2>
+        <h2>Semestre: 6 semestre</h2>
+    </th>
+    <th style="width:20%"></th>
+</tr>
+</table>
+</div>
+<br><br>
+	
+	<h2>Pasatiempos<h2>
+    <pre><p>
+    	jugar futbol
+        Escuchar musica 
+        Estudiar
+        viajar
+        jugar videojuegos
+    </p></pre>
+
+  <div style="text-alingn:center;">
+   <table border="1" style="margin: 0 auto; border-color:blue ;">
+	<tr>
+	<th>Datos del alumno</th>
+	
+	</tr>
+	<tr>
+		<td>Nombre completo</td>
+		<td>Pedro peña enriquez</td>
+	</tr>
+	<tr>
+		<td>Edad</td>
+		<td>22</td>
+	</tr>
+	<tr>	
+		<td>No.control</td>
+		<td>19010043</td>
+	</tr>
+	<tr>	
+		<td>Telefono</td>
+		<td>4981142372</td>
+	</tr>	
+	<tr>	
+		<td>Correo Electronico</td>
+		<td>pedronxabslut23@gmail.com</td>
+	</tr>
+	<tr>	
+		<td>Domicilio</td>
+		<td>JuanAldama</td>
+	</tr>
+	<tr>
+  </table>
+  </div>
+
+<hr>
+<tr>
+	<th style="width:20%"></th>
+	<th>
+
+<hr>
+<a href="http://www.itszn.edu.mx/coyote/"><h1 align="center">ITSZN</h1>
+<hr>
+
+<a href="https://www.facebook.com/pedro.pena.90663894"><img src="imagenes/Facebook.svg" alt="foto" width="20%">
+</th>
+
+
+</body>
+</html>
